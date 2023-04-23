@@ -47,7 +47,7 @@ sections:
                   margin-right: auto;
                   width: 30%;
                   border-radius:50%;"
-            src="./media/avatar.svg">
+            src="https://raw.githubusercontent.com/weddingstefanandrian/weddingstefanandrian/4616be28b60779ef36d4d27ff0d568201012f580/assets/media/avatar.svg">
         </img>
         <div style="text-align: center;">
           <div style="width: 60%; margin: 0 auto;">
@@ -63,7 +63,7 @@ sections:
           </div>
         </div>
         <p style= "text-align:left; font-size: 12px;">
-          Afbeelding door <a href="https://commons.wikimedia.org/w/index.php?curid=11731723">GVR</a>
+          Achtergrond door <a href="https://commons.wikimedia.org/w/index.php?curid=11731723">GVR</a>
         </p>
     design:
       # See Page Builder docs for all section customization options.
@@ -85,34 +85,24 @@ sections:
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
           text_color_light: true
+  - block: markdown
+    id: rsvp
+    content:
+      title: >-
+        RSVP
+        <img 
+            style="display: block; 
+                  margin-left: auto;
+                  margin-right: auto;
+                  width: 30%;"
+            src="./media/Mailicon.svg">
+        </img>
 
-  # - block: about.avatar
-  #   id: about
-  #   content:
-  #     # Choose a user profile to display (a folder name within `content/authors/`)
-  #     username: admin
-  #     # Override your bio text from `authors/admin/_index.md`?
-  #     image:
-  #       filename: hero-academic.png
-  #     text: TESTESTTESTTEST
-  #   design:
-  #     background:
-  #       image:
-  #         # Name of image in `assets/media/`.
-  #         filename: Rijnauwen1.jpg
-  #         # Apply image filters?
-  #         filters:
-  #           # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-  #           brightness: 0.6
-  #         #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
-  #         size: cover
-  #         # Image focal point. Options include `left`, `center` (default), or `right`.
-  #         position: center
-  #         # Use a fun parallax-like fixed background effect on desktop? true/false
-  #         parallax: true
-  #         # Text color (true=light, false=dark, or remove for the dynamic theme color).
-  #         text_color_light: true
-
+      # subtitle: My subtitle
+      text: >-
+        bladiebla
+    design:
+      columns: '2'
   - block: features
     content:
       title: Skills
