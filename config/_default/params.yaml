@@ -32,7 +32,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: true
     show_search: true
@@ -67,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/weddingstefanandrian/https://github.com/weddingstefanandrian/weddingstefanandrian.github.io'
+    url: 'https://github.com/weddingstefanandrian/weddingstefanandrian.github.io'
     content_dir: content
     branch: main
   avatar:
