@@ -47,13 +47,24 @@ sections:
                   margin-right: auto;
                   width: 30%;
                   border-radius:50%;"
-            src="./media/avatar.svg" 
-            alt="Our logo">
+            src="./media/avatar.svg">
         </img>
-        ![alt text](avatar.svg)
         <div style="text-align: center;">
-          <b>Wij gaan trouwen!</b> En dat willen we graag met jou vieren. Op deze site vind je alle informatie over onze aanstaande bruiloft. Door GVR - Eigen werk, CC BY-SA 3.0 nl, https://commons.wikimedia.org/w/index.php?curid=11731723
+          <div style="width: 60%; margin: 0 auto;">
+            <p>
+              <b>Wij gaan trouwen!</b> En dat willen we graag met jou vieren. Op deze site vind je alle informatie over onze aanstaande bruiloft.
+            </p>
+            <p>
+              Op 5 augustus 2023 nodigen we je uit op ridderhofstad Rijnauwen, in de omgeving van Utrecht. Hieronder vindt je meer informatie over de locatie, het programma en veelgestelde vragen. Heb je nog specifieke vragen? Stuur die dan gerust naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com"</a> of naar onze ceremoniemeester Daphne aarts op <a href="daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>. Tot snel en veel liefs!
+            </p>
+            <p>
+              Stefan & Rian
+            </p>
+          </div>
         </div>
+        <p style= "text-align:left; font-size: 12px;">
+          Afbeelding door <a href="https://commons.wikimedia.org/w/index.php?curid=11731723">GVR</a>
+        </p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -65,7 +76,7 @@ sections:
           # Apply image filters?
           filters:
             # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
-            brightness: 0.6
+            brightness: 0.5
           #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
           size: cover
           # Image focal point. Options include `left`, `center` (default), or `right`.
