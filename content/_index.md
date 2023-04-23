@@ -47,11 +47,12 @@ sections:
                   margin-right: auto;
                   width: 30%;
                   border-radius:50%;"
-            src="./media/avatar.jpg" 
+            src="./media/avatar.svg" 
             alt="Our logo">
         </img>
+        ![alt text](avatar.svg)
         <div style="text-align: center;">
-          Hier komt de welkomtekst en een verwijzing naar de copyright van wikipedia-foto. Door GVR - Eigen werk, CC BY-SA 3.0 nl, https://commons.wikimedia.org/w/index.php?curid=11731723
+          <b>Wij gaan trouwen!</b> En dat willen we graag met jou vieren. Op deze site vind je alle informatie over onze aanstaande bruiloft. Door GVR - Eigen werk, CC BY-SA 3.0 nl, https://commons.wikimedia.org/w/index.php?curid=11731723
         </div>
     design:
       # See Page Builder docs for all section customization options.
