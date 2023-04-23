@@ -1,0 +1,30 @@
+
+# Theme metadata
+name = "Minimal"
+
+[light]
+  # Primary
+  primary = "#BC93D3"
+
+  # Menu
+  menu_primary = "#fff"
+  menu_text = "#34495e"
+  menu_text_active = "#BC93D3"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(247, 247, 247)"
+
+  link = "#BC93D3"
+  link_hover = "#2575B8"
+
+[dark]
+  # Primary
+  primary = "#BC93D3"
+
+  # Menu
+  menu_text_active = "#BC93D3"
+
+  link = "#BC93D3"
+  link_hover = "#bbdefb"
