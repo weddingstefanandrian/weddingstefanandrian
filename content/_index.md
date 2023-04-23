@@ -45,7 +45,7 @@ sections:
             style="display: block; 
                   margin-left: auto;
                   margin-right: auto;
-                  width: 30%;
+                  width: 25%;
                   border-radius:50%;"
             src="https://raw.githubusercontent.com/weddingstefanandrian/weddingstefanandrian/4616be28b60779ef36d4d27ff0d568201012f580/assets/media/avatar.svg">
         </img>
@@ -55,7 +55,7 @@ sections:
               <b>Wij gaan trouwen!</b> En dat willen we graag met jou vieren. Op deze site vind je alle informatie over onze aanstaande bruiloft.
             </p>
             <p>
-              Op 5 augustus 2023 nodigen we je uit op ridderhofstad Rijnauwen, in de omgeving van Utrecht. Hieronder vindt je meer informatie over de locatie, het programma en veelgestelde vragen. Heb je nog specifieke vragen? Stuur die dan gerust naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com"</a> of naar onze ceremoniemeester Daphne aarts op <a href="daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>. Tot snel en veel liefs!
+              Op 5 augustus 2023 nodigen we je uit op ridderhofstad Rijnauwen, in de omgeving van Utrecht. Hieronder vindt je meer informatie over de locatie, het programma en veelgestelde vragen. Heb je nog specifieke vragen? Stuur die dan gerust naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a> of naar onze ceremoniemeester Daphne aarts op <a href="mailto:daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>. Tot snel en veel liefs!
             </p>
             <p>
               Stefan & Rian
@@ -89,18 +89,25 @@ sections:
     id: rsvp
     content:
       title: >-
-        RSVP
+        <div style="text-align: center;">
+          RSVP
+        </div>
         <img 
             style="display: block; 
                   margin-left: auto;
                   margin-right: auto;
+                  padding: 20px;
                   width: 30%;"
-            src="./media/Mailicon.svg">
+            src="https://raw.githubusercontent.com/weddingstefanandrian/weddingstefanandrian/5d4358f4041ba26525cac5dcda9e4af7c52c99fd/assets/media/MailIcon.svg">
         </img>
 
       # subtitle: My subtitle
       text: >-
-        bladiebla
+        <div style="text-align: left;">
+          <p>
+            Laat weten of je komt door een mailtje te sturen naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a>. Als je iemand mee wil nemen, speciale eetwensen of allergiën hebt, of als je bent uitgenodigd voor het feest en wil blijven slapen in de jeugdherberg dan zorgen we daar graag voor. Zorg dan wel dat je dit op tijd aan ons doorgeeft.
+          </p>
+        </div>
     design:
       columns: '2'
   - block: features
