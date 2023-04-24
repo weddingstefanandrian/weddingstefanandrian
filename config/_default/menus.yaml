@@ -10,15 +10,15 @@ main:
   - name: RSVP
     url: '#rsvp'
     weight: 20
-  - name: Locatie
-    url: '#locatie'
-    weight: 30
   - name: Dagprogramma  
     url: '#dagprogramma'
+    weight: 30
+  - name: Locatie
+    url: '#locatie'
     weight: 40
   - name: FAQ
     url: '#contact'
-    weight: 60
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

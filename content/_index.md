@@ -345,46 +345,58 @@ sections:
     design:
       columns: '2'
   - block: contact
-    id: contact
+    id: locatie
     content:
-      title: Contact
+      title: >-
+        <div style="text-align: center;">
+          Locatie
+        </div>
+        <img 
+            style="display: block; 
+                  margin-left: auto;
+                  margin-right: auto;
+                  padding: 20px;
+                  width: 30%;"
+            src="BunnikLila.svg">
+        </img>
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Je kan blijven slapen. Het is een soort ridderlandhuis met een jeugdherberg. Je kan ergens parkeren of met het OV. Ze hebben ook een <a href="https://www.stayokay.com/nl/hostel/utrecht-bunnik">website</a>
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      # email: test@example.org
+      # phone: 888 888 88 88
+      # appointment_url: 'https://calendly.com'
+      # Vossegatsedijk 3, 3981 HH Bunnik
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        street: Vossegatsedijk 3
+        city: Bunnik
+        region: Utrecht
+        postcode: 3981 HH
+        country: Nederland
+        country_code: NL
+      directions: Parkeren kan ergens en je moet naar het gebouw rechts ofzo
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # contact_links:
+      #   - icon: skype
+      #     icon_pack: fab
+      #     name: Skype Me
+      #     link: 'skype:echo123?call'
+      #   - icon: browser
+      #     icon_pack: fas
+      #     name: Website
+      #     link: 'https://www.stayokay.com/nl/hostel/utrecht-bunnik'
       # Automatically link email and phone or display as text?
-      autolink: true
+      autolink: false
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---

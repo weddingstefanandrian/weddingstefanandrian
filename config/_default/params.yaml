@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: weddingtheme
+  # theme_day: weddingtheme
   theme_night: weddingtheme
   font: minimal
   font_size: L
@@ -34,7 +34,7 @@ header:
     align: l
     show_logo: false
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: true
 
@@ -93,7 +93,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'google'
     api_key: ''
     zoom: 15
 
