@@ -17,7 +17,7 @@ main:
     url: '#locatie'
     weight: 40
   - name: FAQ
-    url: '#contact'
+    url: '#faq'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
