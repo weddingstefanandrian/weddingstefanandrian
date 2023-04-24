@@ -356,8 +356,8 @@ sections:
                   margin-left: auto;
                   margin-right: auto;
                   padding: 20px;
-                  width: 30%;"
-            src="BunnikLila.svg">
+                  width: 100%;"
+            src="https://raw.githubusercontent.com/weddingstefanandrian/weddingstefanandrian/27177d17426c3b2f0c097e1620da99f2ca567f04/assets/media/BunnikLila.svg">
         </img>
       subtitle:
       text: |-
@@ -374,7 +374,7 @@ sections:
         postcode: 3981 HH
         country: Nederland
         country_code: NL
-      directions: Parkeren kan ergens en je moet naar het gebouw rechts ofzo
+      # directions: Parkeren kan ergens en je moet naar het gebouw rechts ofzo
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
