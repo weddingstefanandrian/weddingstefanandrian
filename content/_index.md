@@ -357,11 +357,11 @@ sections:
                   margin-right: auto;
                   padding: 20px;
                   width: 100%;"
-            src="https://raw.githubusercontent.com/weddingstefanandrian/weddingstefanandrian/27177d17426c3b2f0c097e1620da99f2ca567f04/assets/media/BunnikLila.svg">
+            src="https://raw.githubusercontent.com/weddingstefanandrian/weddingstefanandrian/779ed04eb996b350a70daf8a238c08cd058af4a5/assets/media/BunnikTransparent.svg">
         </img>
       subtitle:
-      text: |-
-        Je kan blijven slapen. Het is een soort ridderlandhuis met een jeugdherberg. Je kan ergens parkeren of met het OV. Ze hebben ook een <a href="https://www.stayokay.com/nl/hostel/utrecht-bunnik">website</a>
+      text: >-
+        Je kan blijven slapen. Het is een soort ridderlandhuis met een jeugdherberg. Je kan ergens parkeren of met het OV. Ze hebben ook een <a href="https://www.stayokay.com/nl/hostel/utrecht-bunnik">website</a> <b> is dit dan geen markdown?</b> *stom!*
       # Contact (add or remove contact options as necessary)
       # email: test@example.org
       # phone: 888 888 88 88
@@ -397,6 +397,9 @@ sections:
       #   netlify:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
+      coordinates:
+        latitude: '52.0692'
+        longitude: '5.177758469491523'
     design:
       columns: '2'
 ---
