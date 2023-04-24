@@ -55,7 +55,7 @@ sections:
               <b>Wij gaan trouwen!</b> En dat willen we graag met jou vieren. Op deze site vind je alle informatie over onze aanstaande bruiloft.
             </p>
             <p>
-              Op 5 augustus 2023 nodigen we je uit op ridderhofstad Rijnauwen, in de omgeving van Utrecht. Hieronder vindt je meer informatie over de locatie, het programma en veelgestelde vragen. Heb je nog specifieke vragen? Stuur die dan gerust naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a> of naar onze ceremoniemeester Daphne aarts op <a href="mailto:daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>. Tot snel en veel liefs!
+              Op 5 augustus 2023 nodigen we je uit op ridderhofstad Rijnauwen, in de omgeving van Utrecht. Hieronder vindt je meer informatie over de locatie, het programma en veelgestelde vragen. Heb je nog specifieke vragen? Stuur die dan gerust naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a> of naar onze ceremoniemeester Daphne Aarts op <a href="mailto:daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>. Tot snel en veel liefs!
             </p>
             <p>
               Stefan & Rian
@@ -105,27 +105,69 @@ sections:
       text: >-
         <div style="text-align: left;">
           <p>
-            Laat weten of je komt door een mailtje te sturen naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a>. Als je iemand mee wil nemen, speciale eetwensen of allergiën hebt, of als je bent uitgenodigd voor het feest en wil blijven slapen in de jeugdherberg dan zorgen we daar graag voor. Zorg dan wel dat je dit op tijd aan ons doorgeeft.
+            Laat weten of je komt door een mailtje te sturen naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a>. Als je iemand mee wil nemen, speciale eetwensen of allergiën hebt, of als je bent uitgenodigd voor het feest en wil blijven slapen in de jeugdherberg dan zorgen we daar graag voor. Zorg dan wel dat je dit op tijd (uiterlijk een maand van te voren) aan ons doorgeeft.
           </p>
         </div>
     design:
       columns: '2'
   - block: features
+    id: dagprogramma
     content:
-      title: Skills
+      title: Dagprogramma
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Ceremonie
+          description: >-
+            <div style="text-align: center;">
+              <b>14.00-14.45</b> Stefan en Rian geven elkaar het ja-woord in de hupselflupselzaal van ridderhofstad Rijnauwen.
+            </div>
+          icon: 💍
+          icon_pack: emoji
+        - name: Receptie
+          description: >-
+            <div style="text-align: center;">
+              <b>15.00-19.00</b> Kom het bruidspaar feliciteren en geniet van een drankje en een hapje op het terras.
+            </div>
+          icon: 🍰
+          icon_pack: emoji
+        - name: Diner
+          description: >-
+            <div style="text-align: center;">
+              <b>19.00-20.30</b> Een maaltijd ofzo.
+            </div>
+          icon: 🍽️
+          icon_pack: emoji
+        - name: Feest
+          description: >-
+            <div style="text-align: center;">
+              <b>20.30-02.00</b> Het feestje wordt verplaatst naar de dansvloer!
+            </div>
+          icon: 💃
+          icon_pack: emoji
+        - name: Ontbijt
+          description: >-
+            <div style="text-align: center;">
+              <b>06 augustus 09.00-10.00</b> Voor de gasten die in de jeugdherberg blijven slapen is er de volgende ochtend ontbijt.
+            </div>
+          icon: 🥐
+          icon_pack: emoji
+    design:
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: foucault.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.5
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: true
+        
   - block: experience
     content:
       title: Experience

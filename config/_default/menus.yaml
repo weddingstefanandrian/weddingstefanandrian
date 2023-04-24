@@ -8,13 +8,13 @@ main:
     url: '#bruiloft'
     weight: 10
   - name: RSVP
-    url: '#posts'
+    url: '#rsvp'
     weight: 20
   - name: Locatie
-    url: '#projects'
+    url: '#locatie'
     weight: 30
   - name: Dagprogramma  
-    url: '#talks'
+    url: '#dagprogramma'
     weight: 40
   - name: FAQ
     url: '#contact'
