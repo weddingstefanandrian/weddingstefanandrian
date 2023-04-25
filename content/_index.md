@@ -120,7 +120,7 @@ sections:
         - name: '<h2 style="color: white;">Ceremonie</h2>'
           description: >-
             <div style="text-align: center">
-              <p style="color: white;"><b>14.00-15.00</b> Stefan en Rian geven elkaar het ja-woord in de hupselflupselzaal van ridderhofstad Rijnauwen. De ceremonie begint om 14.15 uur, en inloop is vanaf 14.00.</p>
+              <p style="color: white;"><b>14.00-15.00</b> Stefan en Rian geven elkaar het ja-woord in de fortzaal van ridderhofstad Rijnauwen. De ceremonie begint om 14.15 uur, en inloop is vanaf 14.00.</p>
             </div>
           icon: 💍
           icon_pack: emoji
