@@ -3,8 +3,8 @@
 title: Stefan & Rian
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Stefan
+last_name: Driessen
 
 # Status emoji
 # status:

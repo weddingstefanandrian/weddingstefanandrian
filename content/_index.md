@@ -38,7 +38,8 @@ sections:
   - block: markdown
     id: bruiloft
     content:
-      title: Bruiloft Stefan & Rian
+      title: >-
+        <h1 style="color: white;">Bruiloft Stefan & Rian</h1>
       # subtitle: My subtitle
       text: >- 
         <img 
@@ -51,18 +52,18 @@ sections:
         </img>
         <div style="text-align: center;">
           <div style="width: 60%; margin: 0 auto;">
-            <p>
+            <p style="color: white;">
               <b>Wij gaan trouwen!</b> En dat willen we graag met jou vieren. Op deze site vind je alle informatie over onze aanstaande bruiloft.
             </p>
-            <p>
+            <p style="color: white;">
               Op 5 augustus 2023 nodigen we je uit op ridderhofstad Rijnauwen, in de omgeving van Utrecht. Hieronder vindt je meer informatie over de locatie, het programma en veelgestelde vragen. Heb je nog specifieke vragen? Stuur die dan gerust naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a> of naar onze ceremoniemeester Daphne Aarts op <a href="mailto:daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>. Tot snel en veel liefs!
             </p>
-            <p>
+            <p style="color: white;">
               Stefan & Rian
             </p>
           </div>
         </div>
-        <p style= "text-align:left; font-size: 12px;">
+        <p style= "text-align:left; font-size: 12px; color: white;">
           Achtergrond door <a href="https://commons.wikimedia.org/w/index.php?curid=11731723">GVR</a>
         </p>
     design:
@@ -84,7 +85,7 @@ sections:
           # Use a fun parallax-like fixed background effect on desktop? true/false
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
+          text_color_light: false
   - block: markdown
     id: rsvp
     content:
@@ -105,7 +106,7 @@ sections:
       text: >-
         <div style="text-align: left;">
           <p>
-            Laat weten of je komt door een mailtje te sturen naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a>. Als je iemand mee wil nemen, speciale eetwensen of allergiën hebt, of als je bent uitgenodigd voor het feest en wil blijven slapen in de jeugdherberg dan zorgen we daar graag voor. Zorg dan wel dat je dit op tijd (uiterlijk een maand van te voren) aan ons doorgeeft.
+            Laat weten of je komt door een mailtje te sturen naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a>. Als je iemand mee wil nemen, speciale eetwensen of allergiën hebt, of als je bent uitgenodigd voor het diner en wil blijven slapen in de jeugdherberg dan zorgen we daar graag voor. Zorg dan wel dat je dit op tijd (uiterlijk een maand van te voren) aan ons doorgeeft.
           </p>
         </div>
     design:
@@ -113,40 +114,42 @@ sections:
   - block: features
     id: dagprogramma
     content:
-      title: Dagprogramma
+      title: >-
+        <h1 style="color: white;">Dagprogramma</h1>
       items:
-        - name: Ceremonie
+        - name: '<h2 style="color: white;">Ceremonie</h2>'
           description: >-
-            <div style="text-align: center;">
-              <b>14.00-14.45</b> Stefan en Rian geven elkaar het ja-woord in de hupselflupselzaal van ridderhofstad Rijnauwen.
+            <div style="text-align: center">
+              <p style="color: white;"><b>14.00-15.00</b> Stefan en Rian geven elkaar het ja-woord in de hupselflupselzaal van ridderhofstad Rijnauwen. De ceremonie begint om 14.15 uur, en inloop is vanaf 14.00.</p>
             </div>
           icon: 💍
           icon_pack: emoji
-        - name: Receptie
+        - name: >-
+            <h2 style="color: white;">Receptie</h2>
           description: >-
             <div style="text-align: center;">
-              <b>15.00-19.00</b> Kom het bruidspaar feliciteren en geniet van een drankje en een hapje op het terras.
+              <p style="color: white;"><b>15.15-19.00</b> Kom het bruidspaar feliciteren en geniet van een drankje en een hapje op het terras.</p>
             </div>
           icon: 🍰
           icon_pack: emoji
-        - name: Diner
+        - name: '<h2 style="color: white;">Diner</h2>'
           description: >-
             <div style="text-align: center;">
-              <b>19.00-20.30</b> Een maaltijd ofzo.
+              <p style="color: white;"><b>19.15-21.00</b> Geniet van een maaltijd geserveerd op het terras van de ridderhofstad.</p>
             </div>
           icon: 🍽️
           icon_pack: emoji
-        - name: Feest
+        - name: '<h2 style="color: white;">Feest</h2>'
           description: >-
             <div style="text-align: center;">
-              <b>20.30-02.00</b> Het feestje wordt verplaatst naar de dansvloer!
+              <p style="color: white;"><b>20.30-02.00</b> Het feestje wordt verplaatst naar de dansvloer!</p>
             </div>
           icon: 💃
           icon_pack: emoji
-        - name: Ontbijt
+        - name: '<h2 style="color: white;">Ontbijt</h2>'
           description: >-
             <div style="text-align: center;">
-              <b>06 augustus 09.00-10.00</b> Voor de gasten die in de jeugdherberg blijven slapen is er de volgende ochtend ontbijt.
+              <p style="color: white;"><b>06 augustus 09.00-10.00</b> Voor de gasten die in de jeugdherberg blijven slapen is er de volgende ochtend ontbijt.</p>
             </div>
           icon: 🥐
           icon_pack: emoji
@@ -166,7 +169,7 @@ sections:
           # Use a fun parallax-like fixed background effect on desktop? true/false
           parallax: true
           # Text color (true=light, false=dark, or remove for the dynamic theme color).
-          text_color_light: true
+          text_color_light: false
         
   # - block: experience
   #   content:
@@ -361,7 +364,10 @@ sections:
         </img>
       subtitle:
       text: >-
-        Je kan blijven slapen. Het is een soort ridderlandhuis met een jeugdherberg. Je kan ergens parkeren of met het OV. Ze hebben ook een <a href="https://www.stayokay.com/nl/hostel/utrecht-bunnik">website</a> <b> is dit dan geen markdown?</b> *stom!*
+        De bruiloft zal plaatsvinden op een oud landhuis genaamd ridderhofstad Rijnauwen. Met het OV kom je hier vanaf station Utrecht CS met bus 41 richting Wijk bij Duurstede en stap uit bij halte Rhijnauwenselaan. Het hostel ligt 400 meter verderop. Je kunt ook vanaf station Bunnik is het 3 kilometer lopen naar het hostel. Kom je met de auto? Neem dan op de A12 van Utrecht naar Arnhem afslag Bunnik. Volg de provinciale weg door Bunnik richting Utrecht. Net voorbij Bunnik neem je afslag Rhijnauwen. Het hostel ligt 400 meter verderop. Vlakbij het hostel is gratis parkeergelegenheid.
+
+        Naast feestlocatie, is de ridderhofstad tevens een jeugdherberg. Voor onze bruiloft hebben we alle kamers in de jeugdherberg gereserveerd. Dit betekent dat je gratis kan blijven slapen in een stapelbed op een gedeelde kamer. Om de kamerinrichting zo prettig mogelijk te maken voor iedereen, vragen we je of je van tevoren door kan geven als je wil blijven slapen.
+        Je kan blijven slapen.
       # Contact (add or remove contact options as necessary)
       # email: test@example.org
       # phone: 888 888 88 88
@@ -402,4 +408,80 @@ sections:
       #     captcha: false
     design:
       columns: '2'
+  - block: markdown
+    id: contact
+    content:
+      title: >-
+        <h1 style="color: white;">Bruiloft Stefan & Rian</h1>
+      subtitle: >-
+        <h3 style="color: white;">FAQ</h3>
+      text: >-
+        <style>
+          table {
+            background-color:rgba(0, 0, 0, 0) !important;
+            background: transparent;
+          }
+          tr:nth-child(even) {
+            background-color:rgba(0, 0, 0, 0);
+          }
+          tr:nth-child(odd) {
+            background-color:rgba(0, 0, 0, 0) !important;
+          }
+          th, td {
+            padding: 15px;
+          }
+        </style>
+        <div style="text-align: center;">
+          <p style="color: white;">
+            Hieronder vind je vragen die wij hebben gekregen of verwachten en het antwoord daarop. Staat jouw vraag er niet tussen? aarzel dan niet om ons <a href="mailto:weddingstefanandrian@gmail.com">een mailtje te sturen</a>.
+          </p>
+        </div>
+        <table style="background-color:rgba(0, 0, 0, 0) !important;">
+            <tr>
+                <th><h4 style="color: white;">Vraag</h4></th>
+                <th><h4 style="color: white;">Antwoord</h4></th>
+            </tr>
+            <tr>
+                <td style="color: white;">Is er een dresscode voor de bruiloft?</td>
+                <td style="color: white;">Er is geen strenge dresscode, kom zoals je zelf wil! Als indicatie stellen wij cocktail chique voor.</td>
+            </tr>
+            <tr>
+                <td style="color: white;">Hebben Stefan en Rian cadeauwensen?</td>
+                <td style="color: white;">Na jaren samenwonen zijn wij niet echt meer op zoek naar spullen voor in ons huis. Als je graag iets wil geven dan zou een financiële bijdrage enorm worden gewaardeerd. Hiervan willen wij op honeymoon/wittebroodsweken naar Taiwan en Japan volgend jaar. Wil je toch liever een fysiek cadeau geven of heb je een idee dat je wil checken? Vraag onze ceremoniemeester om inspiratie.</td>
+            </tr>
+            <tr>
+                <td style="color: white;">Ik heb een leuke foto van Stefan en Rian, kan ik hier iets mee?</td>
+                <td style="color: white;">Stuur hem op naar onze ceremoniemeester, dan zorgen wij er voor dat hij op de dag zelf te zien is.</td>
+            </tr>
+            <tr>
+                <td style="color: white;">Ik wil graag iets ludieks toevoegen aan de bruiloft, hoe kan ik dat het beste organiseren?</td>
+                <td style="color: white;">Overleg met onze ceremoniemeester.</td>
+            </tr>
+            <tr>
+                <td style="color: white;">Mijn vraag staat hier niet tussen!</td>
+                <td style="color: white;">Stuur ons een mailtje op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a>, of benader onze ceremoniemeester op <a href="daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>.</td>
+            </tr>
+        </table>
+        <p style= "text-align:left; font-size: 12px; color: white;">
+          Achtergrond door <a href="https://www.flickr.com/photos/tambako/6007733500">Tambako the Jaguar</a>
+        </p>
+    design:
+      background:
+        image:
+          # Name of image in `assets/media/`.
+          filename: Utrecht.jpg
+          # Apply image filters?
+          filters:
+            # Darken the image? Range 0-1 where 1 is transparent and 0 is opaque.
+            brightness: 0.6
+          #  Image fit. Options are `cover` (default), `contain`, or `actual` size.
+          size: cover
+          # Image focal point. Options include `left`, `center` (default), or `right`.
+          position: center
+          # Use a fun parallax-like fixed background effect on desktop? true/false
+          parallax: true
+          # Text color (true=light, false=dark, or remove for the dynamic theme color).
+          text_color_light: false
+      
+  
 ---
