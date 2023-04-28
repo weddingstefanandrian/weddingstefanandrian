@@ -56,7 +56,7 @@ sections:
               <b>Wij gaan trouwen!</b> En dat willen we graag met jou vieren. Op deze site vind je alle informatie over onze aanstaande bruiloft.
             </p>
             <p style="color: white;">
-              Op 5 augustus 2023 nodigen we je uit op ridderhofstad Rijnauwen, in de omgeving van Utrecht. Hieronder vindt je meer informatie over de locatie, het programma en veelgestelde vragen. Heb je nog specifieke vragen? Stuur die dan gerust naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a> of naar onze ceremoniemeester Daphne Aarts op <a href="mailto:daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>. Tot snel en veel liefs!
+              Op 5 augustus 2023 nodigen we je uit op ridderhofstad Rijnauwen, in de omgeving van Utrecht. Hieronder vind je meer informatie over de locatie, het programma en veelgestelde vragen. Heb je nog specifieke vragen? Stuur die dan gerust naar ons op <a href="mailto:weddingstefanandrian@gmail.com">weddingstefanandrian@gmail.com</a> of naar onze ceremoniemeester Daphne Aarts op <a href="mailto:daphne.aarts@gmail.com">daphne.aarts@gmail.com</a>. Tot snel en veel liefs!
             </p>
             <p style="color: white;">
               Stefan & Rian
@@ -364,10 +364,10 @@ sections:
         </img>
       subtitle:
       text: >-
-        De bruiloft zal plaatsvinden op een oud landhuis genaamd ridderhofstad Rijnauwen. Met het OV kom je hier vanaf station Utrecht CS met bus 41 richting Wijk bij Duurstede en stap uit bij halte Rhijnauwenselaan. Het hostel ligt 400 meter verderop. Je kunt ook vanaf station Bunnik is het 3 kilometer lopen naar het hostel. Kom je met de auto? Neem dan op de A12 van Utrecht naar Arnhem afslag Bunnik. Volg de provinciale weg door Bunnik richting Utrecht. Net voorbij Bunnik neem je afslag Rhijnauwen. Het hostel ligt 400 meter verderop. Vlakbij het hostel is gratis parkeergelegenheid.
+        De bruiloft zal plaatsvinden op een oud landhuis genaamd ridderhofstad Rijnauwen. Met het OV kom je hier vanaf station Utrecht CS met bus 41 richting Wijk bij Duurstede en stap dan uit bij halte Rhijnauwenselaan. Het landhuis ligt 400 meter verderop. Vanaf station Bunnik is het 3 kilometer lopen naar het landhuis. Kom je met de auto? Neem dan op de A12 van Utrecht naar Arnhem afslag Bunnik. Volg de provinciale weg door Bunnik richting Utrecht. Net voorbij Bunnik neem je afslag Rhijnauwen. Het landhuis ligt 400 meter verderop. Vlakbij is er gratis parkeergelegenheid.
 
         Naast feestlocatie, is de ridderhofstad tevens een jeugdherberg. Voor onze bruiloft hebben we alle kamers in de jeugdherberg gereserveerd. Dit betekent dat je gratis kan blijven slapen in een stapelbed op een gedeelde kamer. Om de kamerinrichting zo prettig mogelijk te maken voor iedereen, vragen we je of je van tevoren door kan geven als je wil blijven slapen.
-        Je kan blijven slapen.
+        
       # Contact (add or remove contact options as necessary)
       # email: test@example.org
       # phone: 888 888 88 88
@@ -433,7 +433,7 @@ sections:
         </style>
         <div style="text-align: center;">
           <p style="color: white;">
-            Hieronder vind je vragen die wij hebben gekregen of verwachten en het antwoord daarop. Staat jouw vraag er niet tussen? aarzel dan niet om ons <a href="mailto:weddingstefanandrian@gmail.com">een mailtje te sturen</a>.
+            Hieronder vind je vragen die wij hebben gekregen of verwachten en het antwoord daarop. Staat jouw vraag er niet tussen? Aarzel dan niet om ons <a href="mailto:weddingstefanandrian@gmail.com">een mailtje te sturen</a>.
           </p>
         </div>
         <table style="background-color:rgba(0, 0, 0, 0) !important;">
