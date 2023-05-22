@@ -447,7 +447,7 @@ sections:
             </tr>
             <tr>
                 <td style="color: white;">Hebben Stefan en Rian cadeauwensen?</td>
-                <td style="color: white;">Na jaren samenwonen zijn wij niet echt meer op zoek naar spullen voor in ons huis. Als je graag iets wil geven dan zou een financiële bijdrage enorm worden gewaardeerd. Hiervan willen wij op huwelijksreis naar Taiwan en Japan volgend jaar. Wil je toch liever een fysiek cadeau geven of heb je een idee dat je wil checken? Vraag onze ceremoniemeester om inspiratie.</td>
+                <td style="color: white;">Na jaren samenwonen zijn wij niet echt meer op zoek naar spullen voor in ons huis. Als je graag iets wil geven dan zou een financiële bijdrage enorm worden gewaardeerd. Hiervan willen wij op honeymoon/wittebroodsweken naar Taiwan en Japan volgend jaar. Wil je toch liever een fysiek cadeau geven of heb je een idee dat je wil checken? Vraag onze ceremoniemeester om inspiratie.</td>
             </tr>
             <tr>
                 <td style="color: white;">Ik heb een leuke foto van Stefan en Rian, kan ik hier iets mee?</td>
