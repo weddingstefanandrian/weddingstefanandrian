@@ -142,7 +142,7 @@ sections:
         - name: '<h2 style="color: white;">Feest</h2>'
           description: >-
             <div style="text-align: center;">
-              <p style="color: white;"><b>20.30-02.00</b> Het feestje wordt verplaatst naar de dansvloer!</p>
+              <p style="color: white;"><b>21.00-02.00</b> Het feestje wordt verplaatst naar de dansvloer!</p>
             </div>
           icon: 💃
           icon_pack: emoji
